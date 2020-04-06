@@ -1,5 +1,6 @@
 # rabbitmq-consisten-hash-test
 This project is used to show a potential error in the consistent-hash plugin of RabbitMQ.
+https://github.com/rabbitmq/rabbitmq-consistent-hash-exchange/issues/32
 
 ## Prerequisites
 - dotnet sdk 3.1 
