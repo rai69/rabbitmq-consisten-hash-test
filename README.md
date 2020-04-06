@@ -1,0 +1,1 @@
+# rabbitmq-consisten-hash-test
